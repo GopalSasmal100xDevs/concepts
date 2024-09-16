@@ -27,5 +27,5 @@ To build a growth mindset, here’s what I would do:
 1. **Set Challenging Goals** – Set ambitious goals that push me out of my comfort zone and provide opportunities for growth.
 2. **Embrace Learning** – Learn new skills and seek feedback to improve, rather than just aiming for immediate success.
 3. **Reflect on Failures** – View setbacks as valuable learning experiences and analyze what I can do differently next time.
-4. **Celebrate Progress** – I’d recognize and celebrate the effort and progress I make along the way, not just the end results.
-5. **Stay Curious** – I’d maintain a curious mindset by exploring new interests and continuously seeking knowledge.
+4. **Celebrate Progress** – Recognize and celebrate the effort and progress I make along the way, not just the end results.
+5. **Stay Curious** – Maintain a curious mindset by exploring new interests and continuously seeking knowledge.
