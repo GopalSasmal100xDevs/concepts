@@ -2,35 +2,17 @@
 
 Here are few steps and strategies for Active Listening:
 
-### 1. **Pay Full Attention**
+1. **Pay Full Attention** - Focus completely on the speaker.
 
-- Focus completely on the speaker.
-- Avoid distractions like phones or other conversations.
+2. **Show Interest to speaker** - Give small verbal responses like "yes" or "I see."
 
-### 2. **Show You’re Listening**
+3. **Don’t Interrupt** - Let the speaker finish their thoughts before any respond.
 
-- Use body language like nodding or smiling.
-- Give small verbal responses like "yes" or "I see."
+4. **Ask Questions** - Ask relevant questions to understand better.
 
-### 3. **Don’t Interrupt**
+5. **Paraphrase or Summarize** - Repeating words what the speaker said.
 
-- Let the speaker finish their thoughts before you respond.
-- Avoid jumping in with your own opinions too quickly.
-
-### 4. **Ask Questions**
-
-- Ask relevant questions to understand better.
-- This shows you are interested and paying attention.
-
-### 5. **Paraphrase or Summarize**
-
-- Repeat in your own words what the speaker said.
-- This ensures you understood correctly and makes the speaker feel heard.
-
-### 6. **Avoid Judging**
-
-- Listen without forming immediate opinions.
-- Keep an open mind and try to understand the speaker’s point of view.
+6. **Avoid Judging** - Keep an open mind and try to understand the speaker’s point of view.
 
 # Q2: According to Fisher's model, what are the key points of Reflective Listening?
 
@@ -38,46 +20,41 @@ Fisher’s model of Reflective Listening highlights a few key points:
 
 1. **Listen Carefully**: Pay full attention to the speaker without interrupting. Focus on what they are saying and how they are saying it.
 
-2. **Show Understanding**: Reflect back what the speaker says by summarizing or paraphrasing it in your own words. This helps confirm that you understand their message.
+2. **Show Understanding**: Reflect back what the speaker says by summarizing or paraphrasing it own words.
 
-3. **Acknowledge Emotions**: Notice the speaker's emotions and acknowledge them. This shows empathy and helps the speaker feel understood.
+3. **Acknowledge Emotions**: Noticeing the speaker's emotions and acknowledge them. This shows empathy and helps the speaker feel understood.
 
-4. **Clarify If Needed**: If anything is unclear, ask polite questions to make sure you’ve understood correctly.
+4. **Clarify If Needed**: If anything is unclear, ask polite questions.
 
-5. **Stay Neutral**: Avoid judging or giving your opinion right away. The goal is to understand the speaker’s point of view, not to agree or disagree.
-
-6. **Offer Feedback**: Once you’ve understood, you can offer thoughtful feedback or solutions if needed.
+5. **Stay Neutral**: Avoid judging or giving any opinion. The goal is to understand the speaker’s point of view, not to agree or disagree.
 
 # Q3: What are the obstacles in your listening process?
 
 Here are some common obstacles that can affect the listening process:
 
-1. **Distractions**: External noise, phones, or other people can break your focus, making it hard to listen fully.
-2. **Prejudgments**: Assuming you already know what the speaker will say can stop you from truly hearing their message.
+1. **Distractions**: External noise, phones, or other people can break focus, making it hard to listen fully.
 
-3. **Emotional Reactions**: Strong emotions, like anger or excitement, can cloud your judgment and prevent you from listening carefully.
+2. **Emotional Reactions**: Strong emotions, like anger or excitement
 
-4. **Thinking of Responses**: If you focus too much on what you will say next, you may miss key points from the speaker.
+3. **Thinking of Responses**: Focusing too much on what you will say next.
 
-5. **Lack of Interest**: If the topic doesn’t seem relevant or interesting, you might zone out or not listen attentively.
+4. **Lack of Interest**: If the topic doesn’t seem relevant or interesting.
 
-6. **Multitasking**: Trying to do other things while listening can divide your attention, leading to misunderstandings.
+5. **Multitasking**: Trying to do other things while listening.
 
 # Q4: What can you do to improve your listening?
 
-Here are some steps to improve your listening skills:
+Here are some steps to improve listening skills:
 
-1. **Stay Focused**: Eliminate distractions like phones or background noise. Give the speaker your full attention.
+1. **Stay Focused**: Eliminate distractions like phones or background noise.
 
-2. **Practice Patience**: Let the speaker finish before forming a response. Avoid interrupting or jumping to conclusions.
+2. **Practice Patience**: Let the speaker finish before forming a response.
 
-3. **Show Interest**: Use body language, like nodding or maintaining eye contact, to show you’re actively listening.
+3. **Show Interest**: Use body language, like maintaining eye contact, to show you’re actively listening.
 
-4. **Ask Clarifying Questions**: If something is unclear, ask polite questions to better understand the message.
+4. **Ask Clarifying Questions**: If something is unclear, asking polite questions to better understand the message.
 
-5. **Summarize and Paraphrase**: Repeat key points in your own words to confirm you’ve understood correctly.
-
-6. **Manage Emotions**: Stay calm and open-minded, even if you disagree or feel emotional. This helps you focus on the message, not just your reactions.
+5. **Manage Emotions**: Stay calm and open-minded, even if you disagree or feel emotional.
 
 # Q5: When do you switch to Passive communication style in your day to day life?
 
@@ -129,20 +106,16 @@ Here’s when I might switch to a **passive-aggressive communication style** in 
 
 # Q8: How can you make your communication assertive?
 
-Here are some steps you can take to make your communication more assertive:
+Here are some steps to make communication more assertive:
 
-1. **Be Clear and Direct**: Express your thoughts and feelings openly and honestly without being aggressive or passive.
+1. **Be Clear and Direct**: Express thoughts and feelings openly and honestly without being aggressive or passive.
 
-2. **Use "I" Statements**: Focus on how you feel and what you need by using statements like "I feel..." or "I need..." rather than blaming others.
+2. **Maintain a Confident Tone**: Speak calmly and confidently, avoiding a timid or overly forceful tone.
 
-3. **Maintain a Confident Tone**: Speak calmly and confidently, avoiding a timid or overly forceful tone.
+3. **Stay Calm Under Pressure**: Even when emotions run high, keep your composure and communicate with self-control.
 
-4. **Stay Calm Under Pressure**: Even when emotions run high, keep your composure and communicate with self-control.
+4. **Set Healthy Boundaries**: Be clear about your limits and expectations, and politely but firmly say no when necessary.
 
-5. **Set Healthy Boundaries**: Be clear about your limits and expectations, and politely but firmly say no when necessary.
+5. **Listen Actively**: Show respect by listening to others without interrupting, and respond thoughtfully.
 
-6. **Listen Actively**: Show respect by listening to others without interrupting, and respond thoughtfully.
-
-7. **Practice Body Language**: Use open and positive body language like maintaining eye contact, keeping a relaxed posture, and nodding to show engagement.
-
-These steps can help ensure that your communication is respectful, confident, and effective.
+6. **Practice Body Language**: Use open and positive body language like maintaining eye contact, keeping a relaxed posture, and nodding to show engagement.
